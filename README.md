@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/anmolpant/Natural-Language-Processing-Tasks/blob/master/assets/nlpwpython.jpg" width="200px" height="200px" alt="NLTK"/>
+<img src="https://github.com/anmolpant/Natural-Language-Processing-Tasks/blob/master/assets/nlpwpython.jpg" alt="NLTK"/>
 </p>
 
-![Generic badge](https://img.shields.io/badge/Natural_Language-Processing-black)
+![Generic badge](https://img.shields.io/badge/Natural_Language-Processing-green)
 
 ## Top Language
 
@@ -27,7 +27,6 @@ Contributions are what make the open source community such an amazing place to l
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-<br>
 
 ## License
 
