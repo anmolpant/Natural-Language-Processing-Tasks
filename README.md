@@ -5,7 +5,12 @@
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/anmolpant/Natural-Language-Processing-Tasks?logo=github&style=social)](https://github.com/anmolpant/) [![GitHub last commit](https://img.shields.io/github/last-commit/anmolpant/Natural-Language-Processing-Tasks?style=social&logo=git)](https://github.com/anmolpant/) [![GitHub stars](https://img.shields.io/github/stars/anmolpant/Natural-Language-Processing-Tasks?style=social)](https://github.com/anmolpant/Natural-Language-Processing-Tasks/stargazers) [![GitHub forks](https://img.shields.io/github/forks/anmolpant/Natural-Language-Processing-Tasks?style=social&logo=git)](https://github.com/anmolpant/Natural-Language-Processing-Tasks/network)
 
 <p align="center">
-  Official repo to store all tasks for learning NLTK in the duration of the NLP Course in Fall Semester 2020-21.
+  Official repo to store all tasks for learning Natural Language Processing in the duration of the NLP Course in Fall Semester 2020-21.
+  Name: Anmol Pant
+  Reg No: 18BCE0283
+  Course Code: CSE4022
+  Slot: E1
+  Faculty: Sharmila Bhanu K.
 </p>
 
 <p align="center">
